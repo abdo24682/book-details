@@ -93,6 +93,8 @@ body{
     flex-wrap: wrap;
     align-items:center;
     justify-content: center;
+    position:absolute;
+    bottom:0;
   }
   #footer-bar a {
     margin: 10px;
